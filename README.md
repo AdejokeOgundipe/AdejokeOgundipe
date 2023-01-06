@@ -9,8 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adejokeogundipe&label=Profile%20views&color=0e75b6&style=flat" alt="adejokeogundipe" /> </p>
 
 
-- 🔭 I’m currently working on **Booking System**
-
+<!-- - 🔭 I’m currently working on **Booking System**
+ -->
 - 🌱 I’m currently learning **Laravel, SQL and Postgresql**
 
 - 🤝 I’m looking for help with **courses and materials to get started with AI and Machine Learning**
